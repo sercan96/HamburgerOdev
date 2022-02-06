@@ -1,0 +1,13 @@
+C:\Users\Toshiba\Desktop\HamburgerOdev\HamburgerOdev\bin\Debug\HamburgerOdev.exe.config
+C:\Users\Toshiba\Desktop\HamburgerOdev\HamburgerOdev\bin\Debug\HamburgerOdev.exe
+C:\Users\Toshiba\Desktop\HamburgerOdev\HamburgerOdev\bin\Debug\HamburgerOdev.pdb
+C:\Users\Toshiba\Desktop\HamburgerOdev\HamburgerOdev\obj\Debug\HamburgerOdev.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\HamburgerOdev\HamburgerOdev\obj\Debug\HamburgerOdev.Properties.Resources.resources
+C:\Users\Toshiba\Desktop\HamburgerOdev\HamburgerOdev\obj\Debug\HamburgerOdev.csproj.GenerateResource.cache
+C:\Users\Toshiba\Desktop\HamburgerOdev\HamburgerOdev\obj\Debug\HamburgerOdev.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\HamburgerOdev\HamburgerOdev\obj\Debug\HamburgerOdev.exe
+C:\Users\Toshiba\Desktop\HamburgerOdev\HamburgerOdev\obj\Debug\HamburgerOdev.pdb
+C:\Users\Toshiba\Desktop\HamburgerOdev\HamburgerOdev\obj\Debug\HamburgerOdev.AcilisSayfasi.resources
+C:\Users\Toshiba\Desktop\HamburgerOdev\HamburgerOdev\obj\Debug\HamburgerOdev.Menuler.resources
+C:\Users\Toshiba\Desktop\HamburgerOdev\HamburgerOdev\obj\Debug\HamburgerOdev.YeniMenuEkle.resources
+C:\Users\Toshiba\Desktop\HamburgerOdev\HamburgerOdev\obj\Debug\HamburgerOdev.Ciro.resources
